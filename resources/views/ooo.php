@@ -1,0 +1,5 @@
+{{-- <a href="" class=" btn btn-sm btn-info shadow-lg"><i class="fas fa-plus-circle text-white-90" style="font-size:15px "></i>&nbsp;&nbsp; เพิ่มรายการยา</a>&nbsp;&nbsp;                  --}}
+                        <a href="" class=" btn btn-sm btn-info shadow-lg" data-toggle="modal" data-target="#exampleModal"><i class="fas fa-file-excel text-white-90" style="font-size:15px "></i>&nbsp;&nbsp; นำเข้าด้วย Excel</a>&nbsp;&nbsp;
+                        {{-- <a href="" class="btn btn-sm btn-success shadow-lg"><i class="fas fa-plus-circle text-white-90" style="font-size:15px "></i>&nbsp;&nbsp; เพิ่มรายการยาจาก Hos</a>&nbsp;&nbsp; --}}
+                        {{-- <a href="" class="float-sm-right btn btn-sm btn-warning shadow-lg"><i class="fas fa-print text-white-90" style="font-size:15px "></i>&nbsp;&nbsp; Print Drug all&nbsp;&nbsp;</a> --}}
+                      
